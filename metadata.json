@@ -1,0 +1,8 @@
+{
+  "name": "Copy of Disaster Connect",
+  "description": "Voice-activated emergency response coordinator enabling real-time situation reporting and location tracking via Gemini Live API.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
